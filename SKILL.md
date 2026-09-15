@@ -87,7 +87,8 @@ Use only when it genuinely helps the slide:
 ### Typography and hierarchy
 
 - Use a tall, wide, modern grotesk with reliable Russian Cyrillic.
-- **Default for every standalone cover, including a Telegram poll cover: include a large readable headline that names the topic or asks the poll question.** A text-free cover is allowed only when the user explicitly requests no text or supplies an existing text overlay workflow. A merely decorative object on a dark background is a failed cover, even when it is technically on-brand.
+- **Default for every standalone cover, including a Telegram poll cover: include a large readable headline that names the topic or frames the reader's situation.** A text-free cover is allowed only when the user explicitly requests no text or supplies an existing text overlay workflow. A merely decorative object on a dark background is a failed cover, even when it is technically on-brand.
+- **Cover copy must not duplicate the post title or native poll question.** Use a complementary visual hook, angle, tension, or setup that makes sense beside the title. Repeat the title only when the user explicitly requests exact duplication.
 - Large headline: normally 2–4 lines. Make every line grammatical when read in sequence.
 - Use cream text on dark backgrounds and black/graphite text on cream paper. Never put light text on a light paper surface.
 - Mark only 1–2 semantic anchors in deep ATR green per slide. The rest of the headline stays cream or graphite. Green must guide the reading order, not become decoration.
